@@ -17,3 +17,4 @@ TechWriter provides a collection of technical writing templates designed for dev
 ## Code Template
 - [Google Style Guides](https://google.github.io/styleguide/)
 - [Deep Learning Experiments using Hydra + PyTorch Lightning](https://github.com/facebookresearch/recipes)
+- [Serving Deep Learning Models via FastAPI](https://github.com/Jason-cs18/DLTK)
