@@ -101,3 +101,7 @@ year = {20xx}
 XXX is a project with several skillful researchers and engineers contributing to it.
 
 XXX is currently maintained by [Yan Lu](https://github.com/Jason-cs18) with major contributions coming from many talented individuals in various forms and means.
+
+## License
+
+XXXX is licensed under the [MIT license](LICENSE).
