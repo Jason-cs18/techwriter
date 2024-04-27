@@ -5,9 +5,9 @@ TechWriter provides a collection of technical writing templates designed for dev
 
 - [CoursePage using Gitbook](https://gitbook.gitbook.io/learn-javascript)
 - [API Docs using Gitbook]()
-- [Deep Learning Project | Industry]()
+- [Deep Learning Project | Industry](https://github.com/Jason-cs18/techwriter/blob/main/templates/dl_project_industry.md)
 - [Deep Learning Project | Research](https://github.com/Lightning-AI/deep-learning-project-template)
-- [Dataset or Benchmark | Research](https://github.com/Lightning-AI/deep-learning-project-template)
+- [Dataset or Benchmark | Research](https://github.com/Jason-cs18/techwriter/blob/main/templates/dl_dataset.md)
 
 ## Website Template
 
